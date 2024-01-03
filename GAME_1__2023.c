@@ -1,3 +1,4 @@
+// A PGM IN C LANGUAGE --A  NUMBER GUESSING GAME , WHICH COUNTS THE NUMBER OF ATTEMPTS TAKEN BY THE PLAYER
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
